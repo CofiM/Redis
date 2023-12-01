@@ -1,0 +1,69 @@
+.Comment
+{
+    margin-left: 10px;
+}
+
+.Like
+{
+    margin-left: 10px;
+}
+
+.Dislike
+{
+    margin-left: 10px;
+}
+.Delete
+{
+    margin-left: 10px;
+}
+
+.Buttons
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.divMain
+{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 40px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.mess
+{
+    padding-top: 5px;
+}
+
+.AddPostDiv{
+    margin: 50px;
+    margin-left: 220px; 
+    display: flex;
+    flex-direction: column; 
+    width: 70%;
+}
+
+.groupDiv{
+    display: flex;
+    flex-direction: row;
+    margin:10px
+}
+
+.centerBtn{
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+    margin:10px;
+}
+
+.horizontalLine{
+    margin: 10px;
+    margin-left: 20px;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    font-size: 20px;
+}

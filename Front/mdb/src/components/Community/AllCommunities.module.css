@@ -1,0 +1,14 @@
+.buttonClass{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 10%;
+}
+
+.mainStyle{
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}

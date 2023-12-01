@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ForumApp.Cache\ForumApp.Cache.csproj" />
+    <ProjectReference Include="..\ForumApp.Core\ForumApp.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+.widthText{
+    width: 50%;
+}
+
+.buttonClass{
+    margin-right: 5%;
+}
+
+.title{
+    padding-top: 1%;
+    padding-left: 2%;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.centralItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
